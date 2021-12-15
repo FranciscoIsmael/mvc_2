@@ -1,0 +1,2 @@
+si al descargar la carpeta el nombre no es mvc_2 cambiar el nombre a mvc_2
+montar la base de datos, ya que se ha modificado para poner on delete cascade en las lineas 197, 198 y 201
